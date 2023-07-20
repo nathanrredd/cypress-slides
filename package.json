@@ -1,0 +1,21 @@
+{
+  "name": "cypress-slides",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "sass": "^1.63.6",
+    "slidev-theme-penguin": "^1.7.1",
+    "slidev-theme-unicorn": "^1.1.1",
+    "vite-svg-loader": "^4.0.0"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.33"
+  }
+}
