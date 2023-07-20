@@ -178,13 +178,17 @@ it('filters by course name', () => {
 </div>
 <div>
 
-
 ![Alt text](image-2.png)
 
-
 </div>
 </div>
 
+
+---
+
+# Demonstration
+
+<iframe src="course-catalog.cy.js.mp4" style="width: 850px; height: 400px;"></iframe>
 
 ---
 
